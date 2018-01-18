@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView imagea;
 
 //再见2017，拒绝遗憾，迎战2018，拥抱希望，我是物联网专业1706A班 王磊
-//hahaha
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
